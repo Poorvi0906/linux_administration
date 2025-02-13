@@ -1,0 +1,10 @@
+how do you change the mode from edit to read- only 
+A1:- <ESC>
+how do you a) save the file you are editing , and b) close the file you are editing 
+A2:- a) wq b) :q
+how do u delete a) letter b) word c) sectence 
+A3:- a) x b) dw c) dd
+you are editting the document (in edit mode) . Explain how you'll replace one word with another ?
+A4:- move the cursor to the starting letter of the word which is to be replaced click on 'R' and then type the correct word , then click on 'x' to return from replace 
+
+ 
